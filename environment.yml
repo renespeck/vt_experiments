@@ -1,0 +1,11 @@
+name: vt
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10.13
+
+  - pip:
+      - torch==2.0.0
+      - transformers==4.41.1
+      - Pillow
