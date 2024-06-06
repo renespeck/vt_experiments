@@ -2,8 +2,11 @@ from transformers import ViTImageProcessor, ViTForImageClassification
 from PIL import Image
 import os
 from os import listdir
+import numpy as np
+from sklearn.metrics import f1_score, recall_score, precision_score
+import json
 
-folder = 'data/ADE20K_experiments datasets/sub_train/positive/'
+folder = 'data/ADE20K/sub_test/positive/'
 
 # url = 'http://images.cocodataset.org/val2017/000000039769.jpg'
 # image = Image.open(requests.get(url, stream=True).raw)
@@ -12,23 +15,28 @@ base = 'google/vit-base-patch16-224'
 large = 'google/vit-large-patch16-224'
 huge = 'google/vit-huge-patch14-224-in21k'
 
-processor = ViTImageProcessor.from_pretrained(base)
-model = ViTForImageClassification.from_pretrained(base)
+processor = ViTImageProcessor.from_pretrained(large)
+model = ViTForImageClassification.from_pretrained(large)
 
-print(len(model.config.id2label))
-for i in range(0, len(model.config.id2label)):
-  print(len(model.config.id2label[i]))
+data = []
 
-for images in os.listdir(folder):
-  if images.endswith(".jpg"):
-    print(images)
-    image = Image.open(folder + images)
+images = os.listdir(folder)
+# images = images[0:10]
+for image in images:
+  if image.endswith(".jpg"):
+    image_read = Image.open(folder + image)
 
-    inputs = processor(images=image, return_tensors="pt")
+    inputs = processor(images=image_read, return_tensors="pt")
     outputs = model(**inputs)
     logits = outputs.logits
 
-    # model predicts one of the 1000 ImageNet classes
     predicted_class_idx = logits.argmax(-1).item()
-    print(predicted_class_idx)
-    print("Predicted class:", model.config.id2label[predicted_class_idx])
+    pre = model.config.id2label[predicted_class_idx]
+
+    data.append({
+      'id': f'{image}',
+      'pre': [*pre.split(', ')]
+    })
+
+with open('sub_test_pos.json', 'w') as f:
+  json.dump(data, f, indent=4, sort_keys=True)
