@@ -1,0 +1,3463 @@
+[
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00022103.jpg",
+        "objects": [
+            "sky",
+            "wall",
+            "sea"
+        ],
+        "pre_id": "460",
+        "pre_labels": [
+            "breakwater",
+            "groin",
+            "groyne",
+            "mole",
+            "bulwark",
+            "seawall",
+            "jetty"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00022102.jpg",
+        "objects": [
+            "fence",
+            "stones beach",
+            "fencing",
+            "sea"
+        ],
+        "pre_id": "460",
+        "pre_labels": [
+            "breakwater",
+            "groin",
+            "groyne",
+            "mole",
+            "bulwark",
+            "seawall",
+            "jetty"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005621.jpg",
+        "objects": [
+            "diffusor",
+            "bottle",
+            "monitor",
+            "floor",
+            "loudspeaker system",
+            "calendar",
+            "leg",
+            "tray",
+            "flooring",
+            "window",
+            "windowpane",
+            "bowl",
+            "speaker system",
+            "information processing system",
+            "light",
+            "file",
+            "door",
+            "bill",
+            "pamphlet",
+            "chair",
+            "swivel chair",
+            "silver screen",
+            "card",
+            "pot",
+            "individual",
+            "mouse",
+            "person",
+            "paper",
+            "flowerpot",
+            "speaker unit",
+            "electronic computer",
+            "mortal",
+            "loudspeaker",
+            "box",
+            "booklet",
+            "screen",
+            "briefcase",
+            "speaker",
+            "computing device",
+            "poster",
+            "computing machine",
+            "projector",
+            "keyboard",
+            "pillar",
+            "light source",
+            "somebody",
+            "filing cabinet",
+            "electric switch",
+            "plant life",
+            "computer",
+            "notebook",
+            "cabinet",
+            "bag",
+            "notice",
+            "blind",
+            "soul",
+            "flora",
+            "placard",
+            "book",
+            "projection screen",
+            "ladder",
+            "plant",
+            "ceiling",
+            "electrical switch",
+            "data processor",
+            "switch",
+            "posting",
+            "brochure",
+            "someone",
+            "file cabinet",
+            "column",
+            "leaflet",
+            "wall",
+            "table",
+            "folder"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005624.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "bulletin board",
+            "light source",
+            "board",
+            "drawing table",
+            "window",
+            "flooring",
+            "wall",
+            "drawing tables",
+            "windowpane",
+            "light",
+            "swivel chair",
+            "plank",
+            "notice board"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004942.jpg",
+        "objects": [
+            "roof",
+            "tree",
+            "hovel",
+            "plant life",
+            "shanty",
+            "path",
+            "hutch",
+            "window",
+            "sky",
+            "wall",
+            "hut",
+            "shack",
+            "grass",
+            "flora",
+            "door",
+            "chimney",
+            "plant"
+        ],
+        "pre_id": "912",
+        "pre_labels": [
+            "worm fence",
+            "snake fence",
+            "snake-rail fence",
+            "Virginia fence"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005615.jpg",
+        "objects": [
+            "trash barrel",
+            "floor",
+            "plaything",
+            "trash bin",
+            "garland",
+            "window",
+            "flooring",
+            "trash can",
+            "top",
+            "windowpane",
+            "door",
+            "dustbin",
+            "chair",
+            "ash-bin",
+            "garbage can",
+            "fluorescent fixture",
+            "picture",
+            "wastebin",
+            "toy",
+            "ashcan",
+            "painting",
+            "ceiling",
+            "ash bin",
+            "wall",
+            "shelf",
+            "table",
+            "fluorescent",
+            "ashbin"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005611.jpg",
+        "objects": [
+            "drapery",
+            "floor",
+            "plaything",
+            "leg",
+            "flooring",
+            "window",
+            "top",
+            "windowpane",
+            "curtain",
+            "drawing",
+            "chair",
+            "basket",
+            "work coat",
+            "pall",
+            "box",
+            "bureau",
+            "fluorescent fixture",
+            "board",
+            "picture",
+            "mantle",
+            "cabinet",
+            "toy",
+            "drape",
+            "handbasket",
+            "plank",
+            "painting",
+            "ceiling",
+            "dresser",
+            "chest of drawers",
+            "wall",
+            "chest",
+            "shelf",
+            "table",
+            "fluorescent"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005604.jpg",
+        "objects": [
+            "floor",
+            "pillar",
+            "window",
+            "cabinet",
+            "flooring",
+            "column",
+            "wall",
+            "windowpane",
+            "door",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005605.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "fluorescent",
+            "window",
+            "cabinet",
+            "flooring",
+            "desk",
+            "wall",
+            "windowpane",
+            "door",
+            "fluorescent fixture",
+            "chalkboard",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005609.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "leg",
+            "cabinet",
+            "window",
+            "top",
+            "wall",
+            "windowpane",
+            "flooring",
+            "light",
+            "table",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024873.jpg",
+        "objects": [
+            "house",
+            "tree",
+            "fencing",
+            "earth",
+            "ground",
+            "path",
+            "signboard",
+            "sky",
+            "fence",
+            "wall",
+            "sign"
+        ],
+        "pre_id": "425",
+        "pre_labels": [
+            "barn"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005622.jpg",
+        "objects": [
+            "floor",
+            "closet",
+            "press",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "wardrobe",
+            "chair",
+            "desk",
+            "radiator"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005626.jpg",
+        "objects": [
+            "boob tube",
+            "floor",
+            "telly",
+            "tv set",
+            "tv",
+            "lockers",
+            "idiot box",
+            "leg",
+            "flooring",
+            "television set",
+            "top",
+            "television stand",
+            "wall",
+            "goggle box",
+            "table",
+            "television receiver",
+            "television",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024876.jpg",
+        "objects": [
+            "tree",
+            "house",
+            "extinguisher",
+            "path",
+            "signboard",
+            "snow",
+            "fire extinguisher",
+            "asphyxiator",
+            "sign"
+        ],
+        "pre_id": "915",
+        "pre_labels": [
+            "yurt"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004934.jpg",
+        "objects": [
+            "tree",
+            "house",
+            "pane",
+            "railing",
+            "sky",
+            "window glass",
+            "snow",
+            "pane of glass"
+        ],
+        "pre_id": "449",
+        "pre_labels": [
+            "boathouse"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00016160.jpg",
+        "objects": [
+            "somebody",
+            "person",
+            "breakwater",
+            "path",
+            "someone",
+            "sea",
+            "railing",
+            "sky",
+            "pole",
+            "mortal",
+            "soul",
+            "rail",
+            "individual"
+        ],
+        "pre_id": "460",
+        "pre_labels": [
+            "breakwater",
+            "groin",
+            "groyne",
+            "mole",
+            "bulwark",
+            "seawall",
+            "jetty"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024877.jpg",
+        "objects": [
+            "house",
+            "tree",
+            "earth",
+            "ground",
+            "machine",
+            "motorcar",
+            "automobile",
+            "sky",
+            "car",
+            "auto"
+        ],
+        "pre_id": "656",
+        "pre_labels": [
+            "minivan"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005642.jpg",
+        "objects": [
+            "diffusor",
+            "monitor",
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "information processing system",
+            "light",
+            "bill",
+            "card",
+            "chair",
+            "swivel chair",
+            "electronic computer",
+            "screen",
+            "speaker",
+            "computing device",
+            "poster",
+            "computing machine",
+            "light source",
+            "computer",
+            "notice",
+            "placard",
+            "bookcase",
+            "ceiling",
+            "computer case",
+            "data processor",
+            "posting",
+            "wall",
+            "table"
+        ],
+        "pre_id": "527",
+        "pre_labels": [
+            "desktop computer"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005602.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "lamp",
+            "paper",
+            "clothes",
+            "wearing apparel",
+            "flooring",
+            "desk",
+            "wall",
+            "apparel",
+            "shelf",
+            "door",
+            "book",
+            "dress",
+            "chalkboard"
+        ],
+        "pre_id": "762",
+        "pre_labels": [
+            "restaurant",
+            "eating house",
+            "eating place",
+            "eatery"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004944.jpg",
+        "objects": [
+            "canister",
+            "cabin",
+            "tree",
+            "tin",
+            "earth",
+            "ground",
+            "rock",
+            "cannister",
+            "fern",
+            "window",
+            "stone",
+            "steps",
+            "stairs",
+            "bench"
+        ],
+        "pre_id": "449",
+        "pre_labels": [
+            "boathouse"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_frame_00000105.jpg",
+        "objects": [
+            "floor",
+            "leg",
+            "flooring",
+            "top",
+            "individual",
+            "chair",
+            "person",
+            "head",
+            "mortal",
+            "chalkboard",
+            "somebody",
+            "blackboard",
+            "left hand",
+            "mouth",
+            "soul",
+            "book",
+            "right hand",
+            "someone",
+            "wall",
+            "table",
+            "left arm",
+            "eye"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004940.jpg",
+        "objects": [
+            "marque",
+            "earth",
+            "window",
+            "sky",
+            "brand name",
+            "rail",
+            "auto",
+            "chimney",
+            "individual",
+            "person",
+            "ground",
+            "brand",
+            "hut",
+            "shack",
+            "mortal",
+            "somebody",
+            "fencing",
+            "hovel",
+            "automobile",
+            "shanty",
+            "hutch",
+            "fence",
+            "pole",
+            "soul",
+            "wheel",
+            "car",
+            "trade name",
+            "tree",
+            "machine",
+            "motorcar",
+            "someone",
+            "railing"
+        ],
+        "pre_id": "912",
+        "pre_labels": [
+            "worm fence",
+            "snake fence",
+            "snake-rail fence",
+            "Virginia fence"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00016163.jpg",
+        "objects": [
+            "somebody",
+            "fencing",
+            "person",
+            "paper",
+            "someone",
+            "sea",
+            "sand",
+            "fence",
+            "mortal",
+            "soul",
+            "individual"
+        ],
+        "pre_id": "460",
+        "pre_labels": [
+            "breakwater",
+            "groin",
+            "groyne",
+            "mole",
+            "bulwark",
+            "seawall",
+            "jetty"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020479.jpg",
+        "objects": [
+            "diffusor",
+            "floor",
+            "plaything",
+            "window",
+            "flooring",
+            "windowpane",
+            "light",
+            "chair",
+            "box",
+            "screen",
+            "chalkboard",
+            "blackboard",
+            "light source",
+            "CRT screen",
+            "cabinet",
+            "blind",
+            "toy",
+            "stool",
+            "ceiling",
+            "wall",
+            "table"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005628.jpg",
+        "objects": [
+            "ceiling",
+            "diffusor",
+            "flag",
+            "floor",
+            "pane",
+            "light source",
+            "box",
+            "bidon",
+            "cabinet",
+            "flooring",
+            "wall",
+            "work surface",
+            "light",
+            "table",
+            "door",
+            "chair"
+        ],
+        "pre_id": "762",
+        "pre_labels": [
+            "restaurant",
+            "eating house",
+            "eating place",
+            "eatery"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024870.jpg",
+        "objects": [
+            "tree trunk",
+            "house",
+            "tree",
+            "plant life",
+            "rock",
+            "stone",
+            "bole",
+            "flora",
+            "trunk",
+            "plant"
+        ],
+        "pre_id": "975",
+        "pre_labels": [
+            "lakeside",
+            "lakeshore"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005610.jpg",
+        "objects": [
+            "label",
+            "diffusor",
+            "bottle",
+            "floor",
+            "cap",
+            "leg",
+            "flooring",
+            "top",
+            "chair",
+            "screen",
+            "fluorescent fixture",
+            "chalkboard",
+            "blackboard",
+            "light source",
+            "CRT screen",
+            "pen",
+            "cabinet",
+            "book",
+            "ceiling",
+            "display board",
+            "wall",
+            "table",
+            "fluorescent",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004947.jpg",
+        "objects": [
+            "tree",
+            "fencing",
+            "earth",
+            "ground",
+            "hovel",
+            "shanty",
+            "hutch",
+            "window",
+            "sky",
+            "fence",
+            "hut",
+            "shack",
+            "grass",
+            "door",
+            "chimney"
+        ],
+        "pre_id": "912",
+        "pre_labels": [
+            "worm fence",
+            "snake fence",
+            "snake-rail fence",
+            "Virginia fence"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00016162.jpg",
+        "objects": [
+            "mountain",
+            "sea",
+            "sand",
+            "sky",
+            "wall",
+            "pole",
+            "mount"
+        ],
+        "pre_id": "460",
+        "pre_labels": [
+            "breakwater",
+            "groin",
+            "groyne",
+            "mole",
+            "bulwark",
+            "seawall",
+            "jetty"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/shower_room",
+        "id": "ADE_train_00016296.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "flooring",
+            "wall",
+            "light",
+            "glass separation",
+            "shower",
+            "door"
+        ],
+        "pre_id": "799",
+        "pre_labels": [
+            "sliding door"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "shower_room"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005639.jpg",
+        "objects": [
+            "ceiling",
+            "drapery",
+            "electrical switch",
+            "floor",
+            "switch",
+            "mantle",
+            "electric switch",
+            "flooring",
+            "pall",
+            "wall",
+            "curtain",
+            "drape",
+            "desk"
+        ],
+        "pre_id": "559",
+        "pre_labels": [
+            "folding chair"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004935.jpg",
+        "objects": [
+            "birdcage",
+            "step",
+            "window",
+            "pan",
+            "flower",
+            "sky",
+            "leg",
+            "top",
+            "signboard",
+            "door",
+            "plats",
+            "chair",
+            "cabin",
+            "brick",
+            "sign",
+            "grass",
+            "bench",
+            "mat",
+            "stair",
+            "tree",
+            "wreath",
+            "lantern",
+            "shelf",
+            "table",
+            "wood"
+        ],
+        "pre_id": "765",
+        "pre_labels": [
+            "rocking chair",
+            "rocker"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005641.jpg",
+        "objects": [
+            "floor",
+            "window",
+            "flooring",
+            "top",
+            "windowpane",
+            "light",
+            "bill",
+            "chair",
+            "card",
+            "set office",
+            "map",
+            "poster",
+            "light source",
+            "notice",
+            "placard",
+            "ceiling",
+            "posting",
+            "wall",
+            "table"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00022104.jpg",
+        "objects": [
+            "sky",
+            "stones beach",
+            "sea",
+            "wood wall"
+        ],
+        "pre_id": "460",
+        "pre_labels": [
+            "breakwater",
+            "groin",
+            "groyne",
+            "mole",
+            "bulwark",
+            "seawall",
+            "jetty"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005613.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "picture",
+            "leg",
+            "window",
+            "flooring",
+            "top",
+            "wall",
+            "windowpane",
+            "light",
+            "table",
+            "chair",
+            "painting"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024878.jpg",
+        "objects": [
+            "basket",
+            "tree",
+            "edifice",
+            "ground",
+            "earth",
+            "plant life",
+            "plant",
+            "flora",
+            "handbasket",
+            "building"
+        ],
+        "pre_id": "660",
+        "pre_labels": [
+            "mobile home",
+            "manufactured home"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020480.jpg",
+        "objects": [
+            "school desk",
+            "diffusor",
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "light",
+            "magazine",
+            "bill",
+            "wardrobe",
+            "card",
+            "chair",
+            "closet",
+            "paper",
+            "fish tank",
+            "box",
+            "document",
+            "screen",
+            "marine museum",
+            "bureau",
+            "trophy",
+            "written document",
+            "poster",
+            "press",
+            "light source",
+            "cabinet",
+            "notice",
+            "blind",
+            "schoo desk",
+            "stuffed bird",
+            "placard",
+            "ceiling",
+            "jacket",
+            "posting",
+            "dresser",
+            "chest of drawers",
+            "wall",
+            "chest",
+            "aquarium",
+            "papers",
+            "shelf",
+            "prize",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005617.jpg",
+        "objects": [
+            "floor",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/industrial/seawall",
+        "id": "ADE_train_00016161.jpg",
+        "objects": [
+            "tree",
+            "plant life",
+            "building",
+            "edifice",
+            "rock",
+            "sea",
+            "sand",
+            "stone",
+            "sky",
+            "flora",
+            "grass",
+            "plant"
+        ],
+        "pre_id": "975",
+        "pre_labels": [
+            "lakeside",
+            "lakeshore"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005607.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "closet",
+            "light source",
+            "board",
+            "leg",
+            "flooring",
+            "top",
+            "wall",
+            "shelf",
+            "light",
+            "table",
+            "plank",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004938.jpg",
+        "objects": [
+            "tree",
+            "hovel",
+            "cart",
+            "pillar",
+            "shanty",
+            "sign",
+            "hutch",
+            "signboard",
+            "column",
+            "sky",
+            "wall",
+            "hut",
+            "shack",
+            "steps",
+            "door",
+            "grass",
+            "stairs"
+        ],
+        "pre_id": "912",
+        "pre_labels": [
+            "worm fence",
+            "snake fence",
+            "snake-rail fence",
+            "Virginia fence"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024871.jpg",
+        "objects": [
+            "mountain",
+            "tree",
+            "edifice",
+            "ground",
+            "earth",
+            "bridge",
+            "sky",
+            "span",
+            "mount",
+            "building"
+        ],
+        "pre_id": "970",
+        "pre_labels": [
+            "alp"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005608.jpg",
+        "objects": [
+            "table",
+            "floor",
+            "plaything",
+            "closet",
+            "leg",
+            "cabinet",
+            "window",
+            "top",
+            "wall",
+            "windowpane",
+            "toy",
+            "shelf",
+            "flooring",
+            "box",
+            "drawing",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005601.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "light source",
+            "leg",
+            "flooring",
+            "desk",
+            "top",
+            "wall",
+            "light",
+            "table",
+            "chalkboard",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/shower_room",
+        "id": "ADE_train_00016298.jpg",
+        "objects": [
+            "ceiling",
+            "drapery",
+            "rail",
+            "shower tray",
+            "floor",
+            "light source",
+            "mantle",
+            "railing",
+            "window",
+            "flooring",
+            "pall",
+            "wall",
+            "windowpane",
+            "door",
+            "light",
+            "curtain",
+            "drape"
+        ],
+        "pre_id": "794",
+        "pre_labels": [
+            "shower curtain"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "shower_room"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005620.jpg",
+        "objects": [
+            "diffusor",
+            "bottle",
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "light",
+            "bill",
+            "card",
+            "silver screen",
+            "individual",
+            "chair",
+            "person",
+            "paper",
+            "mortal",
+            "briefcase",
+            "screen",
+            "map",
+            "poster",
+            "somebody",
+            "light source",
+            "notebook",
+            "notice",
+            "soul",
+            "placard",
+            "book",
+            "projection screen",
+            "ceiling",
+            "posting",
+            "someone",
+            "backplate",
+            "wall",
+            "table"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020483.jpg",
+        "objects": [
+            "school desk",
+            "diffusor",
+            "floor",
+            "window",
+            "flooring",
+            "knapsack",
+            "windowpane",
+            "light",
+            "door",
+            "individual",
+            "chair",
+            "person",
+            "mortal",
+            "somebody",
+            "fan",
+            "light source",
+            "board",
+            "back pack",
+            "soul",
+            "packsack",
+            "backpack",
+            "plank",
+            "ceiling",
+            "rucksack",
+            "someone",
+            "wall",
+            "haversack"
+        ],
+        "pre_id": "559",
+        "pre_labels": [
+            "folding chair"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005632.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "light source",
+            "picture",
+            "flooring",
+            "desk",
+            "wall",
+            "light",
+            "door",
+            "map",
+            "chalkboard",
+            "painting"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020482.jpg",
+        "objects": [
+            "school desk",
+            "diffusor",
+            "floor",
+            "pail",
+            "compter",
+            "signboard",
+            "flooring",
+            "window",
+            "windowpane",
+            "ottoman",
+            "information processing system",
+            "light",
+            "bill",
+            "door",
+            "bucket",
+            "card",
+            "chair",
+            "pot",
+            "flowerpot",
+            "electronic computer",
+            "box",
+            "sign",
+            "computing device",
+            "poster",
+            "computing machine",
+            "pouffe",
+            "keyboard",
+            "light source",
+            "computer",
+            "cabinet",
+            "notice",
+            "placard",
+            "book",
+            "ceiling",
+            "hassock",
+            "data processor",
+            "posting",
+            "puff",
+            "pouf",
+            "wall",
+            "table"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005603.jpg",
+        "objects": [
+            "boob tube",
+            "floor",
+            "flooring",
+            "light",
+            "desk",
+            "chair",
+            "telly",
+            "paper",
+            "tv",
+            "television set",
+            "chalkboard",
+            "blackboard",
+            "light source",
+            "board",
+            "idiot box",
+            "book",
+            "plank",
+            "television receiver",
+            "goggle box",
+            "ceiling",
+            "tv set",
+            "wall",
+            "television"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005616.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "picture",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "light",
+            "table",
+            "chair",
+            "desk",
+            "painting"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005618.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "light",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005636.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "leg",
+            "window",
+            "flooring",
+            "top",
+            "wall",
+            "windowpane",
+            "light",
+            "table",
+            "door",
+            "chair"
+        ],
+        "pre_id": "762",
+        "pre_labels": [
+            "restaurant",
+            "eating house",
+            "eating place",
+            "eatery"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024875.jpg",
+        "objects": [
+            "tree",
+            "hovel",
+            "ground",
+            "earth",
+            "shanty",
+            "hutch",
+            "hut",
+            "shack"
+        ],
+        "pre_id": "449",
+        "pre_labels": [
+            "boathouse"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004937.jpg",
+        "objects": [
+            "house",
+            "tree",
+            "ground",
+            "earth",
+            "window",
+            "railing",
+            "column",
+            "sky"
+        ],
+        "pre_id": "425",
+        "pre_labels": [
+            "barn"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005634.jpg",
+        "objects": [
+            "diffusor",
+            "window",
+            "windowpane",
+            "light",
+            "bill",
+            "pamphlet",
+            "card",
+            "chair",
+            "box",
+            "booklet",
+            "poster",
+            "light source",
+            "notice",
+            "placard",
+            "book",
+            "bookcase",
+            "ceiling",
+            "posting",
+            "brochure",
+            "leaflet",
+            "wall",
+            "table",
+            "folder"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005630.jpg",
+        "objects": [
+            "floor",
+            "flooring",
+            "file",
+            "door",
+            "silver screen",
+            "chair",
+            "individual",
+            "person",
+            "banner",
+            "mortal",
+            "document",
+            "screen",
+            "fluorescent fixture",
+            "written document",
+            "projector",
+            "somebody",
+            "streamer",
+            "filing cabinet",
+            "light source",
+            "board",
+            "notebook",
+            "cabinet",
+            "soul",
+            "book",
+            "plank",
+            "projection screen",
+            "ceiling",
+            "mug",
+            "someone",
+            "file cabinet",
+            "wall",
+            "papers",
+            "table",
+            "handle",
+            "fluorescent"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024872.jpg",
+        "objects": [
+            "house",
+            "tree",
+            "ground",
+            "earth",
+            "rock",
+            "railing",
+            "stone",
+            "raukubg",
+            "steps",
+            "rail",
+            "stairs"
+        ],
+        "pre_id": "449",
+        "pre_labels": [
+            "boathouse"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005631.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "light source",
+            "window",
+            "flooring",
+            "desk",
+            "wall",
+            "windowpane",
+            "light",
+            "door",
+            "chalkboard"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005619.jpg",
+        "objects": [
+            "drapery",
+            "diffusor",
+            "bottle",
+            "floor",
+            "trash barrel",
+            "trash bin",
+            "window",
+            "flooring",
+            "file",
+            "right arm",
+            "windowpane",
+            "trash can",
+            "light",
+            "torso",
+            "curtain",
+            "bill",
+            "pamphlet",
+            "back",
+            "dustbin",
+            "chair",
+            "card",
+            "individual",
+            "person",
+            "ash-bin",
+            "paper",
+            "mobile",
+            "head",
+            "pall",
+            "garbage can",
+            "mortal",
+            "folder",
+            "box",
+            "document",
+            "screen",
+            "booklet",
+            "orb",
+            "written document",
+            "poster",
+            "shoe",
+            "somebody",
+            "ball",
+            "light source",
+            "board",
+            "left hand",
+            "mantle",
+            "picture",
+            "notebook",
+            "pen",
+            "notice",
+            "blind",
+            "wastebin",
+            "soul",
+            "placard",
+            "drape",
+            "book",
+            "plank",
+            "ashcan",
+            "painting",
+            "ceiling",
+            "posting",
+            "brochure",
+            "someone",
+            "right hand",
+            "ash bin",
+            "leaflet",
+            "wall",
+            "papers",
+            "shelf",
+            "table",
+            "left arm",
+            "globe",
+            "ashbin"
+        ],
+        "pre_id": "739",
+        "pre_labels": [
+            "potter's wheel"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005638.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "light source",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "light",
+            "table",
+            "book",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020481.jpg",
+        "objects": [
+            "school desk",
+            "floor",
+            "scool desk",
+            "desk organizer",
+            "flooring",
+            "aperture",
+            "light",
+            "bill",
+            "card",
+            "chair",
+            "paper",
+            "document",
+            "box",
+            "fluorescent fixture",
+            "written document",
+            "poster",
+            "light source",
+            "notebook",
+            "notice",
+            "tin can",
+            "placard",
+            "ceiling",
+            "jar",
+            "table",
+            "posting",
+            "can",
+            "wall",
+            "papers",
+            "shelf",
+            "tin",
+            "fluorescent"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/shower_room",
+        "id": "ADE_train_00016300.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "bulletin board",
+            "light source",
+            "spotlight",
+            "flooring",
+            "wall",
+            "light",
+            "spot",
+            "door",
+            "drain",
+            "notice board"
+        ],
+        "pre_id": "884",
+        "pre_labels": [
+            "vault"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "shower_room"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020477.jpg",
+        "objects": [
+            "school desk",
+            "diffusor",
+            "bottle",
+            "sckool desk",
+            "boob tube",
+            "scool desk",
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "information processing system",
+            "light",
+            "door",
+            "chair",
+            "telly",
+            "tv",
+            "television set",
+            "electronic computer",
+            "box",
+            "computing device",
+            "projector",
+            "computing machine",
+            "light source",
+            "idiot box",
+            "computer",
+            "pen",
+            "cabinet",
+            "book",
+            "television receiver",
+            "goggle box",
+            "ceiling",
+            "white board",
+            "data processor",
+            "sscool desk",
+            "tv set",
+            "wall",
+            "shelf",
+            "table",
+            "television"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005633.jpg",
+        "objects": [
+            "drapery",
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "curtain",
+            "bill",
+            "door",
+            "card",
+            "chair",
+            "pall",
+            "chalkboard",
+            "poster",
+            "blackboard",
+            "picture",
+            "mantle",
+            "notice",
+            "placard",
+            "drape",
+            "painting",
+            "ceiling",
+            "posting",
+            "wall",
+            "desk"
+        ],
+        "pre_id": "762",
+        "pre_labels": [
+            "restaurant",
+            "eating house",
+            "eating place",
+            "eatery"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005623.jpg",
+        "objects": [
+            "floor",
+            "picture",
+            "flooring",
+            "wall",
+            "desk",
+            "painting"
+        ],
+        "pre_id": "526",
+        "pre_labels": [
+            "desk"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00023084.jpg",
+        "objects": [
+            "floor",
+            "lamp",
+            "paper",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "map",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005629.jpg",
+        "objects": [
+            "floor",
+            "flooring",
+            "information processing system",
+            "light",
+            "swivel chair",
+            "spotlight",
+            "electronic computer",
+            "computing device",
+            "computing machine",
+            "pillar",
+            "light source",
+            "computer",
+            "spot",
+            "ceiling",
+            "data processor",
+            "column",
+            "wall",
+            "table",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024879.jpg",
+        "objects": [
+            "fencing",
+            "house",
+            "tree",
+            "earth",
+            "machine",
+            "automobile",
+            "motorcar",
+            "ground",
+            "path",
+            "sky",
+            "fence",
+            "car",
+            "auto"
+        ],
+        "pre_id": "425",
+        "pre_labels": [
+            "barn"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/shower_room",
+        "id": "ADE_train_00016297.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "pillar",
+            "light source",
+            "flooring",
+            "column",
+            "wall",
+            "light",
+            "showers",
+            "ladder"
+        ],
+        "pre_id": "733",
+        "pre_labels": [
+            "pole"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "shower_room"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005645.jpg",
+        "objects": [
+            "drapery",
+            "diffusor",
+            "trash barrel",
+            "floor",
+            "pail",
+            "trash bin",
+            "window",
+            "flooring",
+            "trash can",
+            "windowpane",
+            "faucet",
+            "light",
+            "curtain",
+            "bill",
+            "doorframe",
+            "bucket",
+            "dustbin",
+            "doorcase",
+            "sink",
+            "card",
+            "chair",
+            "pot",
+            "ash-bin",
+            "flowerpot",
+            "pall",
+            "garbage can",
+            "screen",
+            "poster",
+            "projector",
+            "plant life",
+            "light source",
+            "picture",
+            "mantle",
+            "cabinet",
+            "notice",
+            "blind",
+            "dummy",
+            "wastebin",
+            "flora",
+            "placard",
+            "drape",
+            "ashcan",
+            "painting",
+            "ceiling",
+            "plant",
+            "posting",
+            "ash bin",
+            "backplate",
+            "wall",
+            "shelf",
+            "table",
+            "ashbin",
+            "radiator"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004945.jpg",
+        "objects": [
+            "mountain",
+            "signboard",
+            "sky",
+            "text",
+            "mount",
+            "individual",
+            "person",
+            "street lamp",
+            "hut",
+            "shack",
+            "mortal",
+            "sign",
+            "grass",
+            "somebody",
+            "fencing",
+            "streetlight",
+            "hovel",
+            "shanty",
+            "hutch",
+            "fence",
+            "soul",
+            "tree",
+            "house",
+            "textual matter",
+            "rock",
+            "someone",
+            "stone",
+            "wall"
+        ],
+        "pre_id": "912",
+        "pre_labels": [
+            "worm fence",
+            "snake fence",
+            "snake-rail fence",
+            "Virginia fence"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00023082.jpg",
+        "objects": [
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "light",
+            "individual",
+            "chair",
+            "person",
+            "paper",
+            "mortal",
+            "laptop computer",
+            "somebody",
+            "light source",
+            "laptop",
+            "soul",
+            "system",
+            "ceiling",
+            "display board",
+            "someone",
+            "wall",
+            "table"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005644.jpg",
+        "objects": [
+            "diffusor",
+            "monitor",
+            "floor",
+            "wall socket",
+            "electric outlet",
+            "knapsack",
+            "flooring",
+            "information processing system",
+            "light",
+            "bill",
+            "outlet",
+            "pamphlet",
+            "chair",
+            "electric receptacle",
+            "silver screen",
+            "flag",
+            "card",
+            "mouse",
+            "electronic computer",
+            "booklet",
+            "screen",
+            "wall plug",
+            "computing device",
+            "poster",
+            "computing machine",
+            "keyboard",
+            "electrical outlet",
+            "board",
+            "light source",
+            "back pack",
+            "computer",
+            "printer",
+            "notice",
+            "placard",
+            "packsack",
+            "projection screen",
+            "plank",
+            "backpack",
+            "ceiling",
+            "computer case",
+            "rucksack",
+            "data processor",
+            "posting",
+            "brochure",
+            "leaflet",
+            "wall",
+            "shelf",
+            "table",
+            "folder",
+            "haversack"
+        ],
+        "pre_id": "526",
+        "pre_labels": [
+            "desk"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005635.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "clock",
+            "light source",
+            "chair",
+            "flooring",
+            "desk",
+            "wall",
+            "light",
+            "door",
+            "screen",
+            "projection screen",
+            "chalkboard",
+            "silver screen"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005640.jpg",
+        "objects": [
+            "ceiling",
+            "monitor",
+            "floor",
+            "light source",
+            "flooring",
+            "wall",
+            "light",
+            "monitoring device",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005625.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "table",
+            "light source",
+            "board",
+            "notebook",
+            "flooring",
+            "wall",
+            "light",
+            "box",
+            "door",
+            "plank",
+            "drawing",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004943.jpg",
+        "objects": [
+            "earth",
+            "bumper",
+            "window",
+            "steps",
+            "door",
+            "auto",
+            "luggage",
+            "ground",
+            "wiper",
+            "grass",
+            "rakes",
+            "automobile",
+            "wheel",
+            "car",
+            "stairs",
+            "license plate",
+            "house",
+            "tree",
+            "rock",
+            "machine",
+            "motorcar",
+            "stone",
+            "taillight"
+        ],
+        "pre_id": "656",
+        "pre_labels": [
+            "minivan"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004946.jpg",
+        "objects": [
+            "cabin",
+            "tree",
+            "fencing",
+            "plant life",
+            "bush",
+            "path",
+            "shrub",
+            "window",
+            "fence",
+            "windowpane",
+            "flora",
+            "door",
+            "grass",
+            "plant"
+        ],
+        "pre_id": "449",
+        "pre_labels": [
+            "boathouse"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005612.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "light source",
+            "leg",
+            "cabinet",
+            "flooring",
+            "top",
+            "wall",
+            "light",
+            "table",
+            "chalkboard",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005637.jpg",
+        "objects": [
+            "ceiling",
+            "floor",
+            "blackboard",
+            "light source",
+            "cabinet",
+            "flooring",
+            "desk",
+            "wall",
+            "light",
+            "chair",
+            "screen",
+            "projection screen",
+            "chalkboard",
+            "silver screen"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_frame_00000107.jpg",
+        "objects": [
+            "monitor",
+            "seat",
+            "floor",
+            "plaything",
+            "hand",
+            "flooring",
+            "right arm",
+            "base",
+            "text",
+            "information processing system",
+            "bill",
+            "back",
+            "desk",
+            "swivel chair",
+            "card",
+            "individual",
+            "mouse",
+            "person",
+            "paper",
+            "head",
+            "right foot",
+            "left leg",
+            "electronic computer",
+            "hair",
+            "mortal",
+            "box",
+            "screen",
+            "left foot",
+            "computing device",
+            "poster",
+            "computing machine",
+            "plant life",
+            "right leg",
+            "keyboard",
+            "somebody",
+            "board",
+            "left hand",
+            "picture",
+            "computer",
+            "notebook",
+            "pen",
+            "cabinet",
+            "notice",
+            "piston",
+            "toy",
+            "soul",
+            "wheel",
+            "flora",
+            "placard",
+            "plank",
+            "plant",
+            "painting",
+            "face",
+            "computer case",
+            "data processor",
+            "textual matter",
+            "posting",
+            "someone",
+            "right hand",
+            "wall",
+            "eye",
+            "ear",
+            "clock"
+        ],
+        "pre_id": "527",
+        "pre_labels": [
+            "desktop computer"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00024874.jpg",
+        "objects": [
+            "hovel",
+            "tree",
+            "shanty",
+            "hutch",
+            "sky",
+            "shack",
+            "hut"
+        ],
+        "pre_id": "912",
+        "pre_labels": [
+            "worm fence",
+            "snake fence",
+            "snake-rail fence",
+            "Virginia fence"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005614.jpg",
+        "objects": [
+            "heater",
+            "warmer",
+            "floor",
+            "board",
+            "window",
+            "flooring",
+            "windowpane",
+            "wall",
+            "plank",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_frame_00000106.jpg",
+        "objects": [
+            "drapery",
+            "handbag",
+            "bottle",
+            "floor",
+            "leg",
+            "cellular phone",
+            "flooring",
+            "top",
+            "tissue pack",
+            "windowpane",
+            "window",
+            "light",
+            "curtain",
+            "swivel chair",
+            "lighter",
+            "chair",
+            "individual",
+            "person",
+            "lamp",
+            "paper",
+            "cellular telephone",
+            "head",
+            "pall",
+            "mortal",
+            "cup paper",
+            "pocketbook",
+            "laptop computer",
+            "cell",
+            "somebody",
+            "pane",
+            "light source",
+            "cellphone",
+            "picture",
+            "mantle",
+            "bag",
+            "mouth",
+            "laptop",
+            "pack",
+            "tin can",
+            "soul",
+            "drape",
+            "book",
+            "purse",
+            "painting",
+            "ceiling",
+            "table",
+            "someone",
+            "can",
+            "wall",
+            "tin",
+            "handle",
+            "eye",
+            "mobile phone"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00023085.jpg",
+        "objects": [
+            "bottle",
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "door",
+            "chair",
+            "individual",
+            "person",
+            "mortal",
+            "box",
+            "somebody",
+            "pillar",
+            "watermelon",
+            "soul",
+            "someone",
+            "column",
+            "wall",
+            "table"
+        ],
+        "pre_id": "822",
+        "pre_labels": [
+            "steel drum"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005643.jpg",
+        "objects": [
+            "bottle",
+            "floor",
+            "bulletin board",
+            "flooring",
+            "individual",
+            "chair",
+            "person",
+            "mortal",
+            "box",
+            "orb",
+            "chalkboard",
+            "notice board",
+            "map",
+            "somebody",
+            "blackboard",
+            "ball",
+            "board",
+            "notebook",
+            "soul",
+            "book",
+            "plank",
+            "bookcase",
+            "someone",
+            "wall",
+            "globe",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004939.jpg",
+        "objects": [
+            "roof",
+            "house",
+            "tree",
+            "window",
+            "grass"
+        ],
+        "pre_id": "660",
+        "pre_labels": [
+            "mobile home",
+            "manufactured home"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00023083.jpg",
+        "objects": [
+            "floor",
+            "window",
+            "flooring",
+            "windowpane",
+            "chair",
+            "lamp",
+            "paper",
+            "document",
+            "laptop computer",
+            "fluorescent fixture",
+            "chalkboard",
+            "written document",
+            "blackboard",
+            "notebook",
+            "cabinet",
+            "laptop",
+            "book",
+            "wall",
+            "papers",
+            "table",
+            "fluorescent"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004936.jpg",
+        "objects": [
+            "minibike",
+            "earth",
+            "edifice",
+            "window",
+            "sky",
+            "door",
+            "chimney",
+            "individual",
+            "person",
+            "ground",
+            "mortal",
+            "sconce",
+            "grass",
+            "somebody",
+            "fencing",
+            "motorbike",
+            "fence",
+            "soul",
+            "building",
+            "house",
+            "tree",
+            "someone"
+        ],
+        "pre_id": "802",
+        "pre_labels": [
+            "snowmobile"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005600.jpg",
+        "objects": [
+            "tin",
+            "floor",
+            "leg",
+            "window",
+            "knapsack",
+            "top",
+            "windowpane",
+            "air conditioner",
+            "flooring",
+            "individual",
+            "chair",
+            "air conditioning",
+            "person",
+            "mortal",
+            "somebody",
+            "pane",
+            "back pack",
+            "bag",
+            "soul",
+            "tin can",
+            "packsack",
+            "book",
+            "backpack",
+            "rucksack",
+            "someone",
+            "wall",
+            "can",
+            "table",
+            "haversack",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/shower_room",
+        "id": "ADE_train_00016299.jpg",
+        "objects": [
+            "hair dryer",
+            "trash barrel",
+            "floor",
+            "wall socket",
+            "trash bin",
+            "electric outlet",
+            "flooring",
+            "trash can",
+            "light",
+            "door",
+            "outlet",
+            "dustbin",
+            "clock",
+            "sink",
+            "electric receptacle",
+            "ash-bin",
+            "garbage can",
+            "wall plug",
+            "electrical outlet",
+            "light source",
+            "wastebin",
+            "ashcan",
+            "ceiling",
+            "ash bin",
+            "wall",
+            "ashbin"
+        ],
+        "pre_id": "896",
+        "pre_labels": [
+            "washbasin",
+            "handbasin",
+            "washbowl",
+            "lavabo",
+            "wash-hand basin"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "shower_room"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004933.jpg",
+        "objects": [
+            "earth",
+            "window",
+            "sky",
+            "windowpane",
+            "steps",
+            "door",
+            "auto",
+            "chair",
+            "ground",
+            "hut",
+            "shack",
+            "sconce",
+            "hovel",
+            "automobile",
+            "shanty",
+            "hutch",
+            "car",
+            "stairs",
+            "tree",
+            "machine",
+            "motorcar"
+        ],
+        "pre_id": "425",
+        "pre_labels": [
+            "barn"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005606.jpg",
+        "objects": [
+            "monitor",
+            "floor",
+            "flooring",
+            "information processing system",
+            "light",
+            "magazine",
+            "door",
+            "chair",
+            "electronic computer",
+            "monitoring device",
+            "screen",
+            "computing device",
+            "computing machine",
+            "light source",
+            "computer",
+            "ceiling",
+            "data processor",
+            "wall",
+            "desk"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/urban/cabin__outdoor",
+        "id": "ADE_train_00004941.jpg",
+        "objects": [
+            "pail",
+            "chapeau",
+            "cap",
+            "earth",
+            "window",
+            "sky",
+            "door",
+            "chimney",
+            "lid",
+            "bucket",
+            "chair",
+            "pot",
+            "individual",
+            "person",
+            "ground",
+            "flowerpot",
+            "hut",
+            "camping stove",
+            "shack",
+            "mortal",
+            "grass",
+            "somebody",
+            "hovel",
+            "board",
+            "shanty",
+            "hutch",
+            "fuel tank",
+            "soul",
+            "tin can",
+            "plank",
+            "tree",
+            "rock",
+            "cloud",
+            "spoon",
+            "fuel can",
+            "someone",
+            "stone",
+            "can",
+            "hat",
+            "tin"
+        ],
+        "pre_id": "449",
+        "pre_labels": [
+            "boathouse"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00005627.jpg",
+        "objects": [
+            "floor",
+            "board",
+            "picture",
+            "window",
+            "flooring",
+            "wall",
+            "windowpane",
+            "chair",
+            "plank",
+            "desk",
+            "painting"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/cultural/classroom",
+        "id": "ADE_train_00020478.jpg",
+        "objects": [
+            "diffusor",
+            "floor",
+            "pail",
+            "plaything",
+            "signboard",
+            "flooring",
+            "window",
+            "windowpane",
+            "light",
+            "bill",
+            "door",
+            "bucket",
+            "card",
+            "chair",
+            "rope",
+            "box",
+            "sign",
+            "poster",
+            "light source",
+            "board",
+            "picture",
+            "cabinet",
+            "notice",
+            "toy",
+            "placard",
+            "plank",
+            "clothespin",
+            "painting",
+            "ceiling",
+            "posting",
+            "wall",
+            "table"
+        ],
+        "pre_id": "624",
+        "pre_labels": [
+            "library"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    }
+]

@@ -9,3 +9,4 @@ dependencies:
       - torch==2.0.0
       - transformers==4.41.1
       - Pillow
+      - huggingface-hub 0.23.3

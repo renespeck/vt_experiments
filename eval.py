@@ -2,9 +2,11 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 from sklearn.preprocessing import MultiLabelBinarizer
 
 y_true = [{"A", "B"}, {"A", "B", "C"}, {"A", "B", "D"}]
-y_pred = [{"A", "B", "C"}, {"A", "C"}, {"B"}]
+y_pred = [{"X", "B", "C"}, {"A", "C"}, {"B"}]
 
-mlb = MultiLabelBinarizer()
+classes_set = {ii for i in [*y_true, *y_pred] for ii in i}
+mlb = MultiLabelBinarizer(classes=[*classes_set])
+
 y_true_binary = mlb.fit_transform(y_true)
 y_pred_binary = mlb.transform(y_pred)
 
