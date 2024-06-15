@@ -1,537 +1,15 @@
 [
     {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
-        "id": "ADE_val_00001943.jpg",
-        "objects": [
-            "book",
-            "bookcase",
-            "electric outlet",
-            "can",
-            "posting",
-            "tray",
-            "telly",
-            "drawing",
-            "paper",
-            "face",
-            "shade",
-            "notice",
-            "floor",
-            "canister",
-            "column",
-            "poster",
-            "picture",
-            "light source",
-            "sign",
-            "diffusor",
-            "chair",
-            "light",
-            "tv",
-            "goggle box",
-            "ceiling",
-            "placard",
-            "painting",
-            "top",
-            "diploma",
-            "idiot box",
-            "vase",
-            "tin can",
-            "flower",
-            "boob tube",
-            "shelf",
-            "bill",
-            "toy",
-            "silver screen",
-            "desk",
-            "screen",
-            "wall socket",
-            "tv set",
-            "signboard",
-            "flooring",
-            "monitoring device",
-            "television receiver",
-            "flag",
-            "bottle",
-            "remote control",
-            "table",
-            "electric receptacle",
-            "cannister",
-            "lamp",
-            "hand",
-            "segment",
-            "television set",
-            "outlet",
-            "wall",
-            "card",
-            "blackboard",
-            "clock",
-            "monitor",
-            "electrical outlet",
-            "remote",
-            "leg",
-            "television",
-            "wall plug",
-            "chalkboard",
-            "printer",
-            "projection screen",
-            "tin",
-            "plaything"
-        ],
-        "pre_id": "624",
-        "pre_labels": [
-            "library"
-        ],
-        "scene": [
-            "indoor",
-            "cultural",
-            "classroom"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/industrial/seawall",
-        "id": "ADE_val_00000744.jpg",
-        "objects": [
-            "sign",
-            "mortal",
-            "individual",
-            "soul",
-            "sand",
-            "head",
-            "sea",
-            "signboard",
-            "rock",
-            "someone",
-            "stone",
-            "person",
-            "somebody"
-        ],
-        "pre_id": "978",
-        "pre_labels": [
-            "seashore",
-            "coast",
-            "seacoast",
-            "sea-coast"
-        ],
-        "scene": [
-            "outdoor",
-            "industrial",
-            "seawall"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
-        "id": "ADE_val_00000250.jpg",
-        "objects": [
-            "speaker unit",
-            "ceiling",
-            "wall",
-            "loudspeaker",
-            "speaker system",
-            "blackboard",
-            "window",
-            "loudspeaker system",
-            "chalkboard",
-            "windowpane",
-            "flooring",
-            "speaker",
-            "floor",
-            "stool",
-            "cabinet",
-            "table"
-        ],
-        "pre_id": "624",
-        "pre_labels": [
-            "library"
-        ],
-        "scene": [
-            "indoor",
-            "cultural",
-            "classroom"
-        ]
-    },
-    {
         "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
         "id": "ADE_train_00020293.jpg",
         "objects": [
-            "wall",
+            "water",
             "vault",
-            "water"
+            "wall"
         ],
-        "pre_id": "884",
+        "pre_id": "0",
         "pre_labels": [
-            "vault"
-        ],
-        "scene": [
-            "indoor",
-            "home or hotel",
-            "sports and leisure",
-            "bathhouse"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
-        "id": "ADE_train_00002532.jpg",
-        "objects": [
-            "floor",
-            "person",
-            "balusters",
-            "ceiling",
-            "individual",
-            "soul",
-            "statue",
-            "somebody",
-            "mortal",
-            "water vapour",
-            "water vapor",
-            "building",
-            "flooring",
-            "water",
-            "handrail",
-            "pillar",
-            "wall",
-            "banister",
-            "edifice",
-            "someone",
-            "balustrade",
-            "column",
-            "bannister"
-        ],
-        "pre_id": "663",
-        "pre_labels": [
-            "monastery"
-        ],
-        "scene": [
-            "indoor",
-            "home or hotel",
-            "sports and leisure",
-            "bathhouse"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
-        "id": "ADE_train_00002533.jpg",
-        "objects": [
-            "flora",
-            "window",
-            "capital",
-            "floor",
-            "person",
-            "chair",
-            "ceiling",
-            "individual",
-            "soul",
-            "plant life",
-            "somebody",
-            "mortal",
-            "rail",
-            "windowpane",
-            "flooring",
-            "shaft",
-            "water",
-            "plant",
-            "pillar",
-            "wall",
-            "railing",
-            "someone",
-            "base",
-            "column"
-        ],
-        "pre_id": "698",
-        "pre_labels": [
-            "palace"
-        ],
-        "scene": [
-            "indoor",
-            "home or hotel",
-            "sports and leisure",
-            "bathhouse"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/home_or_hotel/shower",
-        "id": "ADE_val_00001750.jpg",
-        "objects": [
-            "shower",
-            "towel rack",
-            "head",
-            "person",
-            "light source",
-            "light",
-            "ceiling",
-            "individual",
-            "soul",
-            "spigot",
-            "somebody",
-            "mortal",
-            "mouth",
-            "towel",
-            "towel horse",
-            "wall",
-            "eye",
-            "someone",
-            "faucet",
-            "nose"
-        ],
-        "pre_id": "435",
-        "pre_labels": [
-            "bathtub",
-            "bathing tub",
-            "bath",
-            "tub"
-        ],
-        "scene": [
-            "indoor",
-            "home or hotel",
-            "shower"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/urban/cabin__outdoor",
-        "id": "ADE_val_00001218.jpg",
-        "objects": [
-            "flora",
-            "window",
-            "sky",
-            "shanty",
-            "roof",
-            "ground",
-            "plant life",
-            "door",
-            "stairs",
-            "earth",
-            "tree",
-            "stone",
-            "steps",
-            "hut",
-            "rock",
-            "hutch",
-            "hovel",
-            "shack",
-            "trunk",
-            "plant"
-        ],
-        "pre_id": "449",
-        "pre_labels": [
-            "boathouse"
-        ],
-        "scene": [
-            "outdoor",
-            "urban",
-            "cabin outdoor"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/urban/cabin__outdoor",
-        "id": "ADE_val_00000219.jpg",
-        "objects": [
-            "chimney",
-            "hut",
-            "earth",
-            "window",
-            "shanty",
-            "mountain",
-            "sky",
-            "tree",
-            "ground",
-            "mount",
-            "hutch",
-            "hovel",
-            "shack"
-        ],
-        "pre_id": "970",
-        "pre_labels": [
-            "alp"
-        ],
-        "scene": [
-            "outdoor",
-            "urban",
-            "cabin outdoor"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
-        "id": "ADE_val_00001251.jpg",
-        "objects": [
-            "door",
-            "shelf",
-            "hand",
-            "chair",
-            "toy",
-            "bag",
-            "wall",
-            "games",
-            "desk",
-            "clock",
-            "paper",
-            "flooring",
-            "face",
-            "floor",
-            "cabinet",
-            "plaything"
-        ],
-        "pre_id": "624",
-        "pre_labels": [
-            "library"
-        ],
-        "scene": [
-            "indoor",
-            "cultural",
-            "classroom"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
-        "id": "ADE_val_00000251.jpg",
-        "objects": [
-            "booklet",
-            "ashcan",
-            "folder",
-            "document",
-            "head",
-            "window",
-            "floor",
-            "person",
-            "light source",
-            "diffusor",
-            "chair",
-            "light",
-            "ceiling",
-            "individual",
-            "dustbin",
-            "soul",
-            "aperture",
-            "trash can",
-            "trash barrel",
-            "projector",
-            "written document",
-            "somebody",
-            "door",
-            "mortal",
-            "garbage can",
-            "wastebin",
-            "ash-bin",
-            "brochure",
-            "leaflet",
-            "screen",
-            "ash bin",
-            "flooring",
-            "windowpane",
-            "pamphlet",
-            "table",
-            "papers",
-            "ashbin",
-            "trash bin",
-            "wall",
-            "CRT screen",
-            "someone"
-        ],
-        "pre_id": "624",
-        "pre_labels": [
-            "library"
-        ],
-        "scene": [
-            "indoor",
-            "cultural",
-            "classroom"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
-        "id": "ADE_train_00002531.jpg",
-        "objects": [
-            "pillar",
-            "building",
-            "ceiling",
-            "wall",
-            "sconce",
-            "flooring",
-            "edifice",
-            "floor",
-            "column",
-            "water"
-        ],
-        "pre_id": "698",
-        "pre_labels": [
-            "palace"
-        ],
-        "scene": [
-            "indoor",
-            "home or hotel",
-            "sports and leisure",
-            "bathhouse"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
-        "id": "ADE_val_00001250.jpg",
-        "objects": [
-            "shelf",
-            "chair",
-            "notice board",
-            "wall",
-            "painting",
-            "desk",
-            "clock",
-            "monitor",
-            "flooring",
-            "floor",
-            "bulletin board",
-            "monitoring device",
-            "picture"
-        ],
-        "pre_id": "624",
-        "pre_labels": [
-            "library"
-        ],
-        "scene": [
-            "indoor",
-            "cultural",
-            "classroom"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/validation/home_or_hotel/bathhouse",
-        "id": "ADE_val_00000076.jpg",
-        "objects": [
-            "lamp",
-            "ceiling",
-            "wall",
-            "window",
-            "windowpane",
-            "flooring",
-            "floor",
-            "statue",
-            "water"
-        ],
-        "pre_id": "698",
-        "pre_labels": [
-            "palace"
-        ],
-        "scene": [
-            "indoor",
-            "home or hotel",
-            "sports and leisure",
-            "bathhouse"
-        ]
-    },
-    {
-        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
-        "id": "ADE_train_00002530.jpg",
-        "objects": [
-            "lamp",
-            "ceiling",
-            "wall",
-            "sink",
-            "flooring",
-            "floor",
-            "water",
-            "faucet"
-        ],
-        "pre_id": "762",
-        "pre_labels": [
-            "restaurant",
-            "eating house",
-            "eating place",
-            "eatery"
+            "n"
         ],
         "scene": [
             "indoor",
@@ -544,22 +22,534 @@
         "folder": "ADE20K_2021_17_01/images/ADE/validation/home_or_hotel/shower",
         "id": "ADE_val_00000750.jpg",
         "objects": [
-            "shower",
+            "towel",
             "wall",
             "painting",
-            "shower room",
-            "towel",
-            "picture"
+            "picture",
+            "shower",
+            "shower room"
         ],
-        "pre_id": "876",
+        "pre_id": "1",
         "pre_labels": [
-            "tub",
-            "vat"
+            "p"
         ],
         "scene": [
             "indoor",
             "home or hotel",
             "shower"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
+        "id": "ADE_train_00002533.jpg",
+        "objects": [
+            "base",
+            "railing",
+            "somebody",
+            "shaft",
+            "ceiling",
+            "window",
+            "floor",
+            "pillar",
+            "rail",
+            "plant",
+            "mortal",
+            "column",
+            "plant life",
+            "capital",
+            "person",
+            "someone",
+            "chair",
+            "soul",
+            "wall",
+            "flooring",
+            "water",
+            "individual",
+            "windowpane",
+            "flora"
+        ],
+        "pre_id": "1",
+        "pre_labels": [
+            "p"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "sports and leisure",
+            "bathhouse"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/home_or_hotel/shower",
+        "id": "ADE_val_00001750.jpg",
+        "objects": [
+            "head",
+            "somebody",
+            "ceiling",
+            "faucet",
+            "mouth",
+            "spigot",
+            "mortal",
+            "light",
+            "towel rack",
+            "person",
+            "towel horse",
+            "shower",
+            "someone",
+            "light source",
+            "towel",
+            "soul",
+            "wall",
+            "nose",
+            "individual",
+            "eye"
+        ],
+        "pre_id": "1",
+        "pre_labels": [
+            "p"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "shower"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
+        "id": "ADE_val_00000250.jpg",
+        "objects": [
+            "cabinet",
+            "stool",
+            "chalkboard",
+            "blackboard",
+            "wall",
+            "loudspeaker system",
+            "speaker unit",
+            "flooring",
+            "speaker",
+            "speaker system",
+            "windowpane",
+            "ceiling",
+            "window",
+            "floor",
+            "table",
+            "loudspeaker"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
+        "id": "ADE_train_00002532.jpg",
+        "objects": [
+            "balustrade",
+            "somebody",
+            "building",
+            "ceiling",
+            "statue",
+            "floor",
+            "pillar",
+            "mortal",
+            "column",
+            "bannister",
+            "edifice",
+            "water vapour",
+            "water vapor",
+            "person",
+            "someone",
+            "soul",
+            "wall",
+            "balusters",
+            "handrail",
+            "flooring",
+            "water",
+            "individual",
+            "banister"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "sports and leisure",
+            "bathhouse"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
+        "id": "ADE_val_00001251.jpg",
+        "objects": [
+            "cabinet",
+            "clock",
+            "wall",
+            "bag",
+            "plaything",
+            "door",
+            "toy",
+            "flooring",
+            "games",
+            "paper",
+            "hand",
+            "shelf",
+            "floor",
+            "face",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/urban/cabin__outdoor",
+        "id": "ADE_val_00001218.jpg",
+        "objects": [
+            "ground",
+            "window",
+            "shanty",
+            "plant",
+            "stone",
+            "sky",
+            "hut",
+            "stairs",
+            "plant life",
+            "hutch",
+            "earth",
+            "roof",
+            "rock",
+            "tree",
+            "door",
+            "hovel",
+            "shack",
+            "trunk",
+            "steps",
+            "flora"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/industrial/seawall",
+        "id": "ADE_val_00000744.jpg",
+        "objects": [
+            "soul",
+            "sand",
+            "sea",
+            "head",
+            "somebody",
+            "signboard",
+            "mortal",
+            "person",
+            "individual",
+            "rock",
+            "sign",
+            "someone",
+            "stone"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "outdoor",
+            "industrial",
+            "seawall"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
+        "id": "ADE_val_00001250.jpg",
+        "objects": [
+            "clock",
+            "monitor",
+            "wall",
+            "bulletin board",
+            "monitoring device",
+            "flooring",
+            "notice board",
+            "painting",
+            "picture",
+            "shelf",
+            "floor",
+            "desk",
+            "chair"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
+        "id": "ADE_train_00002530.jpg",
+        "objects": [
+            "wall",
+            "lamp",
+            "flooring",
+            "water",
+            "ceiling",
+            "floor",
+            "sink",
+            "faucet"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "sports and leisure",
+            "bathhouse"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
+        "id": "ADE_val_00000251.jpg",
+        "objects": [
+            "ash bin",
+            "leaflet",
+            "head",
+            "somebody",
+            "CRT screen",
+            "pamphlet",
+            "ceiling",
+            "window",
+            "floor",
+            "table",
+            "diffusor",
+            "projector",
+            "papers",
+            "mortal",
+            "light",
+            "aperture",
+            "ash-bin",
+            "dustbin",
+            "wastebin",
+            "brochure",
+            "person",
+            "trash bin",
+            "garbage can",
+            "booklet",
+            "someone",
+            "light source",
+            "chair",
+            "soul",
+            "wall",
+            "door",
+            "screen",
+            "written document",
+            "flooring",
+            "ashbin",
+            "trash can",
+            "document",
+            "individual",
+            "windowpane",
+            "trash barrel",
+            "ashcan",
+            "folder"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/home_or_hotel/bathhouse",
+        "id": "ADE_val_00000076.jpg",
+        "objects": [
+            "wall",
+            "lamp",
+            "flooring",
+            "water",
+            "windowpane",
+            "ceiling",
+            "statue",
+            "window",
+            "floor"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "sports and leisure",
+            "bathhouse"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/training/home_or_hotel/bathhouse",
+        "id": "ADE_train_00002531.jpg",
+        "objects": [
+            "wall",
+            "flooring",
+            "water",
+            "column",
+            "building",
+            "ceiling",
+            "floor",
+            "sconce",
+            "pillar",
+            "edifice"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "home or hotel",
+            "sports and leisure",
+            "bathhouse"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/cultural/classroom",
+        "id": "ADE_val_00001943.jpg",
+        "objects": [
+            "chalkboard",
+            "boob tube",
+            "can",
+            "electric receptacle",
+            "wall plug",
+            "television",
+            "signboard",
+            "lamp",
+            "monitoring device",
+            "bottle",
+            "posting",
+            "ceiling",
+            "tv set",
+            "idiot box",
+            "television receiver",
+            "paper",
+            "outlet",
+            "table",
+            "diffusor",
+            "face",
+            "floor",
+            "sign",
+            "book",
+            "tray",
+            "diploma",
+            "toy",
+            "vase",
+            "wall socket",
+            "column",
+            "light",
+            "electrical outlet",
+            "drawing",
+            "goggle box",
+            "card",
+            "electric outlet",
+            "silver screen",
+            "telly",
+            "clock",
+            "segment",
+            "monitor",
+            "bookcase",
+            "plaything",
+            "poster",
+            "projection screen",
+            "remote",
+            "painting",
+            "remote control",
+            "flag",
+            "tin",
+            "picture",
+            "flower",
+            "light source",
+            "tv",
+            "tin can",
+            "placard",
+            "chair",
+            "cannister",
+            "top",
+            "blackboard",
+            "wall",
+            "canister",
+            "shade",
+            "bill",
+            "screen",
+            "flooring",
+            "leg",
+            "hand",
+            "shelf",
+            "printer",
+            "desk",
+            "television set",
+            "notice"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "indoor",
+            "cultural",
+            "classroom"
+        ]
+    },
+    {
+        "folder": "ADE20K_2021_17_01/images/ADE/validation/urban/cabin__outdoor",
+        "id": "ADE_val_00000219.jpg",
+        "objects": [
+            "earth",
+            "sky",
+            "chimney",
+            "ground",
+            "mountain",
+            "mount",
+            "tree",
+            "hovel",
+            "shack",
+            "hut",
+            "window",
+            "hutch",
+            "shanty"
+        ],
+        "pre_id": "0",
+        "pre_labels": [
+            "n"
+        ],
+        "scene": [
+            "outdoor",
+            "urban",
+            "cabin outdoor"
         ]
     }
 ]
