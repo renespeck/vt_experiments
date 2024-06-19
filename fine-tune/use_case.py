@@ -1,7 +1,6 @@
 import os
-import json
 
-from datasets import Dataset, DatasetDict, ClassLabel
+from datasets import Dataset, DatasetDict
 from pathlib import Path
 from PIL import Image
 
@@ -28,11 +27,8 @@ def get_data(folder, label):
       img_path = f'{folder}{Path(js_file).stem}.jpg'
       if os.path.isfile(img_path):
         # json and jpg file exists
-        with open(f'{folder}/{js_file}') as f:
-          d = json.load(f)
-
-          image_read = Image.open(img_path)
-          data.append({"image": image_read, 'labels': label})
+        image_read = Image.open(img_path)
+        data.append({"image": image_read, 'labels': label})
   return data
 
 

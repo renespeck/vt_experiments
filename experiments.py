@@ -9,7 +9,7 @@ folder = 'data/ADE20K/sub_train/negative/'
 save = 'results/sub_train_neg.json'
 
 base = 'google/vit-base-patch16-224'
-large = 'google/vit-large-patch16-224'
+large = 'vit-test'  # 'google/vit-large-patch16-224'
 huge = 'google/vit-huge-patch14-224-in21k'
 
 # url = 'http://images.cocodataset.org/val2017/000000039769.jpg'

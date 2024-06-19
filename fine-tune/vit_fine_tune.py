@@ -8,9 +8,9 @@ from transformers import Trainer
 
 from use_case import get_dataset_dict
 
-model_name_or_path = 'google/vit-base-patch16-224-in21k'
-feature_extractor = ViTFeatureExtractor.from_pretrained(model_name_or_path)
-metric = load_metric("accuracy")
+model_name = 'google/vit-base-patch16-224-in21k'
+fe = ViTFeatureExtractor.from_pretrained(model_name)
+metric = load_metric("f1")
 
 
 def collate_fn(batch):
@@ -25,18 +25,8 @@ def compute_metrics(p):
                         references=p.label_ids)
 
 
-def process_example(example):
-  inputs = feature_extractor(example['image'], return_tensors='pt')
-  inputs['labels'] = example['labels']
-  return inputs
-
-
 def transform(example_batch):
-  # Take a list of PIL images and turn them to pixel values
-  inputs = feature_extractor([x for x in example_batch['image']],
-                             return_tensors='pt')
-
-  # Don't forget to include the labels!
+  inputs = fe([x for x in example_batch['image']], return_tensors='pt')
   inputs['labels'] = example_batch['labels']
   return inputs
 
@@ -47,13 +37,12 @@ ds = ds.class_encode_column('labels')
 labels = ds['train'].features['labels'].names
 
 model = ViTForImageClassification.from_pretrained(
-    model_name_or_path,
+    model_name,
     num_labels=len(labels),
     id2label={str(i): c for i, c in enumerate(labels)},
     label2id={c: str(i) for i, c in enumerate(labels)}
 )
 
-# https://github.com/hiyouga/LLaMA-Factory/issues/2552
 training_args = TrainingArguments(
     output_dir="../vit-test",
     per_device_train_batch_size=16,
@@ -79,7 +68,7 @@ trainer = Trainer(
     compute_metrics=compute_metrics,
     train_dataset=prepared_ds["train"],
     eval_dataset=prepared_ds["test"],
-    tokenizer=feature_extractor,
+    tokenizer=fe,
 )
 train_results = trainer.train()
 trainer.save_model()
